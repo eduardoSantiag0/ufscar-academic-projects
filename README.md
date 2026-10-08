@@ -4,6 +4,14 @@ Este repositório reúne projetos, exercícios e implementações desenvolvidos 
 
 O objetivo é centralizar os trabalhos realizados em diferentes disciplinas, documentando minha trajetória acadêmica e o desenvolvimento de conhecimentos em computação, engenharia de software e tecnologias digitais.
 
+## Processos Seletivos e Projetos Extracurriculares
+
+Projetos desenvolvidos durante a graduação para processos seletivos e outras atividades de formação prática.
+
+- [todoDoDudu](https://github.com/eduardoSantiag0/todoDoDudu) — Projeto desenvolvido como parte do processo seletivo para ingresso em uma empresa júnior.
+- [Aventura Solo Framework](https://github.com/eduardoSantiag0/aventura-solo-framework) — Refatoração de um framework desenvolvido originalmente por um docente da UFSCar, com foco na melhoria da estrutura e organização do código.
+
+
 ## Inteligência Artificial e Computação Paralela
 
 - [Inteligência Artificial](https://github.com/eduardoSantiag0/inteligencia-artificial)
@@ -29,7 +37,6 @@ O objetivo é centralizar os trabalhos realizados em diferentes disciplinas, doc
 ## Hipermídia e Projetos Interativos
 
 - [Introdução à Hipermídia](https://github.com/eduardoSantiag0/Introducao_Hipermidia)
-- [Aventura Solo Framework](https://github.com/eduardoSantiag0/aventura-solo-framework)
 - [A Midsummer Night Escape](https://github.com/eduardoSantiag0/A_Midsummer_Night_Escape)
 
 ---
