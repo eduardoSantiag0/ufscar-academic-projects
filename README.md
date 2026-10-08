@@ -8,7 +8,7 @@ O objetivo é centralizar os trabalhos realizados em diferentes disciplinas, doc
 
 Projetos desenvolvidos durante a graduação para processos seletivos e outras atividades de formação prática.
 
-- [todoDoDudu](https://github.com/eduardoSantiag0/todoDoDudu) — Projeto desenvolvido como parte do processo seletivo para ingresso em uma empresa júnior.
+- [todoDoDudu](https://github.com/eduardoSantiag0/todoDoDudu) — Projeto desenvolvido como parte do processo seletivo para ingresso na empresa júnior.
 - [Aventura Solo Framework](https://github.com/eduardoSantiag0/aventura-solo-framework) — Refatoração de um framework desenvolvido originalmente por um docente da UFSCar, com foco na melhoria da estrutura e organização do código.
 
 
