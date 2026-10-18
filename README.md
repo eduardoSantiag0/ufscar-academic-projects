@@ -21,6 +21,7 @@ Projetos desenvolvidos durante a graduação para processos seletivos e outras a
 
 - [Redes de Computadores — Servidor IRC](https://github.com/eduardoSantiag0/redes-p1)
 - [Redes de Computadores — TCP](https://github.com/eduardoSantiag0/redes-p2)
+-  [Redes de Computadores — IP](https://github.com/eduardoSantiag0/redes-p3)
 - [Sistemas Operacionais](https://github.com/eduardoSantiag0/sistemas-operacionais)
 
 ## Algoritmos e Estruturas de Dados
