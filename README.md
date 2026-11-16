@@ -16,6 +16,7 @@ Projetos desenvolvidos durante a graduação para processos seletivos e outras a
 
 - [Inteligência Artificial](https://github.com/eduardoSantiag0/inteligencia-artificial)
 - [Programação Paralela e Distribuída](https://github.com/eduardoSantiag0/programacao-paralela-e-distribuida)
+- [K-Means: Solução Paralela](https://github.com/eduardoSantiag0/k-means-problem)
 
 ## Redes de Computadores e Sistemas Operacionais
 
@@ -39,6 +40,7 @@ Projetos desenvolvidos durante a graduação para processos seletivos e outras a
 
 - [Introdução à Hipermídia](https://github.com/eduardoSantiag0/Introducao_Hipermidia)
 - [A Midsummer Night Escape](https://github.com/eduardoSantiag0/A_Midsummer_Night_Escape)
+- [Mosaico do Tempo](https://github.com/eduardoSantiag0/mosaico-do-tempo)
 
 ---
 
